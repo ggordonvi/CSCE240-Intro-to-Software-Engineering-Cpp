@@ -1,0 +1,5 @@
+*.swp
+include/*.swp
+src/*.swp
+lib/include/*.swp
+lib/src/*.swp
